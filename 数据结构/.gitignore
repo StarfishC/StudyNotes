@@ -1,0 +1,8 @@
+##ignore this file##
+
+/.vscode/
+
+*.exe
+*.out
+*.swp
+*.nvimlog
